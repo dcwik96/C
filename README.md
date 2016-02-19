@@ -1,2 +1,3 @@
-# labc
-Labolatorium 2015/2016
+JEZYKI PROGRAMOWANIA rok
+S. Sokołowski
+https://github.com/dcwik96/labc.git
