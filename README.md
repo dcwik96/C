@@ -9,12 +9,12 @@
 
 [Laboratorium 1](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs01/)
 
-    [zad1](labc/zad01.c)
-    [zad2](labc/zad02.c)
-    [zad3](labc/zad03.c)
-    [zad4](labc/zad04.c)
-    [zad5](labc/zad05.c)
-    [zad6](labc/zad06.c)
+    [zad1](labc/lab01/zad01.c)
+    [zad2](labc/lab01/zad02.c)
+    [zad3](labc/lab01/zad03.c)
+    [zad4](labc/lab01/zad04.c)
+    [zad5](labc/lab01/zad05.c)
+    [zad6](labc/lab01/zad06.c)
 
   [Laboratorium 2](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs02/)
 
