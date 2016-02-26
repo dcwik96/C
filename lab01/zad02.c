@@ -1,11 +1,17 @@
 #include <stdio.h>
 
-int main(){
-  char znak;
-  scanf("%s",&znak);
-  do{
-    scanf("%s",&znak);
-  }while(znak!=EOF);
-  return 0;
-}
+int main()
+{
 
+	char z;
+	z=getchar();
+
+	while(z!=EOF)
+	{
+		printf("%c",z);
+   	z=getchar();
+	}
+
+	return 0;
+  
+}

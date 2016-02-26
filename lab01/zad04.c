@@ -1,0 +1,1 @@
+Program wypisze "nierowne"
