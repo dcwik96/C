@@ -10,9 +10,9 @@ int main()
   printf("long\t\t%li\t\t%li\t\t\t%li\t\t\t-\t\t\t-\n",sizeof(long),LONG_MIN,LONG_MAX);
   printf("long long\t\t%li\t\t%lli\t\t\t%lli\t\t\t-\t\t\t-\n",sizeof(long long),LLONG_MIN,LLONG_MAX);
 
-  printf("float\t\t%li\t\t%f\t\t\t%f\t\t\t%f\t\t\t%f\n",sizeof(float),LLONG_MIN,LLONG_MAX,FLT_EPSILON,FLT_DIG);
-  printf("double\t\t%li\t\t%lf\t\t\t%lf\t\t\t%lf\t\t\t%lf\n",sizeof(double),LLONG_MIN,LLONG_MAX,DBL_EPSILON,DBL_DIG);
-  printf("long double\t\t%li\t\t%Lf\t\t\t%Lf\t\t\t%Lf\t\t\t%Lf\n",sizeof(long double),LLONG_MIN,LLONG_MAX,LDBL_EPSILON,LDBL_DIG);
+  printf("float\t\t%e\t\t%e\t\t\t%e\t\t\t%e\t\t\t%e\n",sizeof(float),LLONG_MIN,LLONG_MAX,FLT_EPSILON,FLT_DIG);
+  printf("double\t\t%le\t\t%le\t\t\t%le\t\t\t%le\t\t\t%le\n",sizeof(double),LLONG_MIN,LLONG_MAX,DBL_EPSILON,DBL_DIG);
+  printf("long double\t\t%Le\t\t%Le\t\t\t%Le\t\t\t%Le\t\t\t%Le\n",sizeof(long double),LLONG_MIN,LLONG_MAX,LDBL_EPSILON,LDBL_DIG);
 
-
+return 0;
 }
