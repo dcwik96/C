@@ -15,7 +15,7 @@
  * [x] [zad4](lab01/zad04.c)
  * [x] [zad5](lab01/zad05.c)
  * [x] [zad6](lab01/zad06.c)
- 
+
 
 [Laboratorium 2](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs02/)
 
@@ -37,7 +37,7 @@
 |float      |        4|         1.175494e-38|         3.402823e+38|   1.192093e-07|       6  |
 |double     |        8|        2.225074e-308|        1.797693e+308|   2.220446e-16|      15  |
 |long double|       16|       3.362103e-4932|       1.189731e+4932|   1.084202e-19|      18  |
-  
+
   * [x] [zad1](lab03/zad01.c)
   * [x] [zad2](lab03/zad02.c)
   * [x] [zad3](lab03/zad03.c)
@@ -45,3 +45,6 @@
 
 
 [Laboratorium 4](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs04/)
+
+  * [x] [zad1](lab04/zad1.c)
+  * [] [zad2](lab04/zad2.c)
