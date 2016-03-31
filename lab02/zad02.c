@@ -1,3 +1,9 @@
+//Napisałem program, który wczytuje dzień (między 1 a 31), miesiąc (między 1 a 12) i rok (liczbę całkowitą dodatnią, niewiększą niż 223−1),
+//wszystkie trzy dane pakuje do jednej 32-bitowej liczby całkowitej, jak na poniższym rysunku
+//drukuje tą liczbę.
+//Program wydrukował liczbę 1032225. Co to była za data?
+//Napisać program, który potrafi odczytać datę z każdej liczby, zestawionej w podany wyżej sposób.
+
 #include <stdio.h>
 void date(int x)
 {

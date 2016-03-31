@@ -1,3 +1,5 @@
+//Napisać program, który wczytuje tekst aż do EOF, a następnie drukuje bitowe obrazy wczytanych znaków. 
+
 #include <stdio.h>
 void dec_bin(int x)
 {
