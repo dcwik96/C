@@ -47,4 +47,11 @@
 [Laboratorium 4](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs04/)
 
   * [x] [zad1](lab04/zad1.c)
-  * [] [zad2](lab04/zad2.c)
+  * [x] [zad2](lab04/zad2.c)
+
+[Laboratorium 5](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs05/)
+
+  * [x] [zad1](lab05/zad1.c)
+  * [x] [zad1](lab05/zad2.c)
+
+[Laboratorium 6](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs06/)
