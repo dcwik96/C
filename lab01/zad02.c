@@ -11,7 +11,7 @@ int main()
 	while(z!=EOF)
 	{
 		printf("%c",z);
-   	z=getchar();
+   		z=getchar();
 	}
 
 	return 0;
