@@ -55,3 +55,16 @@
   * [x] [zad1](lab05/zad2.c)
 
 [Laboratorium 6](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs06/)
+
+  * [x] [zad1](lab06/zad01.c)
+  * [x] [zad2i3](lab06/glowny.c)
+
+[Laboratorium 7](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs07/)
+
+
+[Laboratorium 8](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs08/)
+
+[Laboratorium 9](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs09/)
+
+[Laboratorium 10](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs10/)
+
