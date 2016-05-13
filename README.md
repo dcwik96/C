@@ -61,10 +61,20 @@
 
 [Laboratorium 7](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs07/)
 
+  * [x] [zad1](lab07/zad01.c)
+  * [x] [zad2i3](lab07/zad2_3.c)
 
 [Laboratorium 8](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs08/)
 
+  * [x] [zad1](lab08/zad01.c)
+  * [x] [zad2](lab08/zad02.c)
+  * [x] [zad3](lab08/zad03.c)
+  * [x] [zad4](lab08/zad04.c)
+
 [Laboratorium 9](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs09/)
 
-[Laboratorium 10](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs10/)
+  * [x] [zad1](lab09/kalkulator.php)
+  * [x] [zad2](lab09/lista.php)
+  * [x] [zad3](lab09/wejscia.php)
 
+[Laboratorium 10](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs10/)
