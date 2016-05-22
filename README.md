@@ -14,7 +14,7 @@
 - [lab5/zad2](lab05/zad2.c) struktury.. sortowanie.. dane z pliku..
 - [lab6/zad1](lab06/zad01.c) listy.. wyrazy..
 - [zadania z PHP](https://sigma.ug.edu.pl/~dcwik/index.php) nie wszystkie wyszly ale nowy jezyk bardzo ciekawy i na pewno zadania beda poprawione
-- [GRA](gra) prosta gra ze statystykami.. 
+- [GRA](gra) prosta gra ze statystykami..  // niedokonczone
 
 [Laboratorium 1](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs01/)
 
