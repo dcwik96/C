@@ -7,6 +7,9 @@
 
 ####[Moja strona](https://sigma.ug.edu.pl/~dcwik/index.php) // zadania z LAB9/LAB10/LAB12 
 
+####[Ulubione]
+-[[zad1](lab03/zad01.c)]
+
 
 [Laboratorium 1](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs01/)
 
