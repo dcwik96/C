@@ -6,7 +6,7 @@
 
 
 void zgadywanie_liczby(){
-	int wybor, proby,liczba;
+	int wybor, liczba;
 	srand(time(0));
 	liczba=rand()%100+1;
 	printf("Zgadnij liczbe");
@@ -130,8 +130,6 @@ void reset(){
          printf( "Usunieto pomyslnie plik.\n" );
     else
          printf( "Nie udalo sie skasowac pliku lub nie zagrales jeszcze we wszystkie gry\nSprobuj wszystkiego !\n\n" );
-
-    return 0;
 
 }
 
