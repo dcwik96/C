@@ -71,10 +71,17 @@
   * [x] [zad3](lab08/zad03.c)
   * [x] [zad4](lab08/zad04.c)
 
-[Laboratorium 9](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs09/)
+[Laboratorium 13](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs13/)
 
-  * [x] [zad1](lab09/kalkulator.php)
-  * [x] [zad2](lab09/lista.php)
-  * [x] [zad3](lab09/wejscia.php)
+  * [x] [zad1](lab13/zad01.c)
+  * [x] [zad2](lab13/zad02.c)
 
-[Laboratorium 10](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs10/)
+[Laboratorium 14](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs14/)
+
+  * [x] [zad1](lab14/zad01.c) // brak zamiana z rzymskich na arabskie 
+
+[Laboratorium 15](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs08/)
+
+  * [x] [zad5](lab15/zad05.c)
+
+
