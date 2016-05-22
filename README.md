@@ -2,7 +2,7 @@
 ##rok I semestr II
 ##Dawid Cwik
 
-[Moja strona](https://sigma.ug.edu.pl/~dcwik/index.php)
+[Moja strona](https://sigma.ug.edu.pl/~dcwik/index.php) // zadania z LAB9/LAB10/LAB12 
 
 [S. Sokołowski](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/)
 
