@@ -2,6 +2,8 @@
 ##rok I semestr II
 ##Dawid Cwik
 
+[Moja strona](https://sigma.ug.edu.pl/~dcwik/index.php)
+
 [S. Sokołowski](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/)
 
 [Repozytorium laboratoryjne](https://github.com/dcwik96/labc.git)
