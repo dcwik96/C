@@ -28,20 +28,10 @@ int main()
   //wypisuje maksymalna wartosc inta (float > int)
   
   /*
-  Z Wikipedii :
+  
   "Podczas konwersji zmiennych zawierających większe ilości danych do typów prostszych 
   (np. double do int) musimy liczyć się z utratą informacji,[...] - 
   zmienna int nie może przechowywać części ułamkowej [...], została ona odcięta"
-  
-  Z improgrammer :
-  "The usual arithmetic conversions are implicitly performed to cast their values in a common type,
-  C uses the rule that, in all expressions except assignments, any implicit type conversions 
-  made from a lower size type to a higher size type as shown below: ""
-  
-  short/char => int => unsigned int => long => unsigned long => long long => unsigned long long = > ... 
-  ... => float => double => long double"
-
-  /*
-  return 0;
+	*/
 }
 

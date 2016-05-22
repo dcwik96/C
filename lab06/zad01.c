@@ -56,7 +56,7 @@ void druk(lista lis)
   lista wynik = lis;
   while(wynik!=NULL)
   {
-    printf("%s ", wynik->slowo);
+    printf("%s", wynik->slowo);
     wynik=wynik->dalej;
   }
 }
@@ -78,7 +78,7 @@ lista odwroc(lista lis)
 int main()
 {
   lista lis=NULL;
-  lis=dolacz("abc", dolacz("def", dolacz("ghi", lis)));
+  lis=dolacz("abc\n", dolacz("def\n", dolacz("ghi\n", lis)));
   druk(odwroc(lis));
   return 0;
 }

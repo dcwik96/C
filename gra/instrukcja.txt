@@ -1,0 +1,8 @@
+Witaj nowy uzytkowniu
+Z okazji tego ze jestes tutaj pierwszy raz przedstawie ci zasady ktore tutaj obowiazuja.
+
+Do wyboru masz 3 gry.
+1. Polega na odgadnieciu liczby ktora komputer wylosowal z zakresu 1-50. Musisz tego dokonac w jak najmniejszej ilosci ruchów. Nie jest ona wymagajaca dlatego nie powinienes miec z nia problemow.
+2. Polega na grze z komputerem w popularna gre - papier kamien nozyce. Reguly sa znane, aby wygrac cala rogrywke musisz pokonac przeciwnika 3 razy
+3. Polega na poprawnym podaniu wyniku tabliczki mnozenia.
+Na koniec mozesz sprawdzic swoje statystyki odnosnie kazdej gry.

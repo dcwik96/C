@@ -4,18 +4,30 @@
 // * ,,ziarno'', czyli najmniejszą taką liczbę x, że 1.0+x≠1.0 ,
 //* ,,precyzję'', czyli maksymalną liczbę cyfr dziesiętnych po kropce.
 
-#include <stdio.h>
-#include <limits.h>
-#include <float.h>
+#include<stdio.h>
+#include<float.h>
+#include<limits.h>
+
 int main()
 {
-  printf("|%11s|%8s|%21s|%21s|%13s|%10s|\n","TYP","DOL_WART","GOR_WART","ZIARNO","PRECYZJA","FORMAT");
-  printf("|%11s|%8i|%21i|%21i|%13i|%10s|\n","short",(short)SHRT_MIN,(short)SHRT_MAX,' ',' ',"%i");
-  printf("|%11s|%8i|%21i|%21i|%13i|%10s|\n","int",(int)INT_MIN,(int)INT_MAX,' ',' ',"%i");
-  printf("|%11s|%8li|%21li|%21li|%13li|%10s|\n","long",(long)LONG_MIN,(long)LONG_MAX,' ',' ',"%li");
-  printf("|%11s|%8lli|%21lli|%21lli|%13lli|%10s|\n","long long",(long long)LLONG_MIN,(long long)LLONG_MAX,' ',' ',"%lli");
-  printf("|%11s|%8e|%21e|%21e|%13e|%10s|\n","float", (float)FLT_MIN, (float)FLT_MAX,FLT_EPSILON,(float)FLT_DIG,"%e");
-  printf("|%11s|%8le|%21le|%21le|%13le|%10s|\n","double", (double)DBL_MIN, (double)DBL_MAX,DBL_EPSILON,(double)DBL_DIG,"%le");
-  printf("|%11s|%8Le|%21Le|%21Le|%13Le|%10s|\n","long double",(long double)LDBL_MIN,(long double)LDBL_MAX,LDBL_EPSILON,(long double)LDBL_DIG,"%Le");
+  printf("|%11s|%21s|%21s|%13s|%12s|\n", "TYP", "MINIMUM", "MAXIMUM", "ZIARNO", "PRECYZJA");
+  printf("|-----------|---------------------|---------------------|-------------|------------|\n");
+  // short
+  printf("|%11s|%21i|%21i|%13c|%12c|\n", "SHORT", (short)SHRT_MIN, (short)SHRT_MAX, ' ', ' ');
+  // int
+  printf("|%11s|%21d|%21d|%13c|%12c|\n", "INT", (int)INT_MIN, (int)INT_MAX, ' ', ' ');
+  // long
+  printf("|%11s|%21li|%21li|%13c|%12c|\n", "LONG", (long)LONG_MIN, (long)LONG_MAX, ' ', ' ');
+  // long long
+  printf("|%11s|%21lli|%21lli|%13c|%12c|\n", "LONG LONG", (long long)LLONG_MIN, (long long)LLONG_MAX, ' ', ' ');
+  // float
+  printf("|%11s|%21e|%21e| %e| %11d|\n", "FLOAT", (float)FLT_MIN, (float)FLT_MAX, FLT_EPSILON, (int)FLT_DIG);
+  // double
+  printf("|%11s|%21le|%21le| %e| %11d|\n", "DOUBLE", (double)DBL_MIN, (double)DBL_MAX, DBL_EPSILON, (int)DBL_DIG);
+  // long double
+  printf("|%11s|%21Le|%21Le| %Le| %11d|\n", "LONG DOUBLE", (long double)LDBL_MIN, (long double)LDBL_MAX, LDBL_EPSILON, (int)LDBL_DIG);
+
+
+return 0;
 }
-//ERROR
+

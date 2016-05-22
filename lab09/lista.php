@@ -12,7 +12,7 @@
  <h3>Chetni na impreze:</h3>
  <h5>
  <?php
- if ($_REQUEST['ile'] != NULL)
+ if ($_REQUEST['ile'] != 0)
  {
 	for ($i = 0; $i <= $_REQUEST['ile']; $i++)
 	{
@@ -36,7 +36,7 @@
   <form action="">
   <input type="text" name="nowy">
   <?php
-  if($_REQUEST['ile']!=NULL)
+  if($_REQUEST['ile']!=0)
   {
 	for($i=0;$i<=$_REQUEST['ile'];$i++)
 	{
@@ -51,7 +51,7 @@
 	}
  }
 ?>
-  <input type ="hidden" name="ile" value="<?php if($_REQUEST['ile']==NULL){ echo "0";}if($_REQUEST['ile']!=NULL){ $a= $_REQUEST['ile']; echo $a+1;}?>">
+  <input type ="hidden" name="ile" value="<?php if($_REQUEST['ile']==0){ echo "0";}if($_REQUEST['ile']!=0){ $a= $_REQUEST['ile']; echo $a+1;}?>">
  </form>
 </div>
 
