@@ -3,10 +3,9 @@
 ##Dawid Cwik
 
 ###[S. Sokołowski](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/)
-
-[Moja strona](https://sigma.ug.edu.pl/~dcwik/index.php) // zadania z LAB9/LAB10/LAB12 
-
 [Repozytorium laboratoryjne](https://github.com/dcwik96/labc.git)
+
+####[Moja strona](https://sigma.ug.edu.pl/~dcwik/index.php) // zadania z LAB9/LAB10/LAB12 
 
 
 [Laboratorium 1](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs01/)
