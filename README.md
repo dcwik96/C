@@ -8,8 +8,13 @@
 ####[Moja strona](https://sigma.ug.edu.pl/~dcwik/index.php) // zadania z LAB9/LAB10/LAB12 
 
 ####[Ulubione]
-- [zad1](lab03/zad01.c)
-
+- [lab3/zad1](lab03/zad01.c) ładna tabelka podstawa.. zwracac uwage na szczegoly.. informacje na temat zakresu zmiennych..
+- [lab3/zad3](lab03/zad03.c) informacje na temat konwersji zmiennych..
+- [lab4/zad2](lab04/zad02.c) wykorzystanie informacji o liczbach zespolonych.. 
+- [lab5/zad2](lab05/zad2.c) struktury.. sortowanie.. dane z pliku..
+- [lab6/zad1](lab06/zad01.c) listy.. wyrazy..
+- [zadania z PHP](https://sigma.ug.edu.pl/~dcwik/index.php) nie wszystkie wyszly ale nowy jezyk bardzo ciekawy i na pewno zadania beda poprawione
+- [GRA](gra) prosta gra ze statystykami.. 
 
 [Laboratorium 1](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs01/)
 
