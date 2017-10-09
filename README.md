@@ -1,13 +1,13 @@
-#JEZYKI PROGRAMOWANIA
-##rok I semestr II
-##Dawid Cwik
+JEZYKI PROGRAMOWANIA
+rok I semestr II
+Dawid Cwik
 
-###[S. Sokołowski](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/)
+[S. Sokołowski](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/)
 [Repozytorium laboratoryjne](https://github.com/dcwik96/labc.git)
 
-####[Moja strona](https://sigma.ug.edu.pl/~dcwik/index.php) // zadania z LAB9/LAB10/LAB12 
+[Moja strona](https://sigma.ug.edu.pl/~dcwik/index.php) // zadania z LAB9/LAB10/LAB12 
 
-####[Ulubione]
+[Ulubione]
 - [lab3/zad1](lab03/zad01.c) ładna tabelka podstawa.. zwracac uwage na szczegoly.. informacje na temat zakresu zmiennych..
 - [lab3/zad3](lab03/zad03.c) informacje na temat konwersji zmiennych..
 - [lab4/zad2](lab04/zad02.c) wykorzystanie informacji o liczbach zespolonych.. 
